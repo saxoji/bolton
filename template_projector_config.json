@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "The Room Where It Happened",
+      "tensorShape": [
+        3329,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/saxoji/bolton/master/bolton_w2v_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/saxoji/bolton/master/bolton_w2v_metadata.tsv”
+    }
+  ]
+}
